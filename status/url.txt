@@ -1,2 +1,13 @@
 build wildfly 16 from source
 https://docs.wildfly.org/16/Getting_Started_Guide.html
+
+How to build WildFly 27.0 from Source Code in Windows 10 Command line using
+Maven 3.8 and JDK 11:
+https://www.youtube.com/watch?v=xGIv9x--Qm4
+
+mvn PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target :
+https://stackoverflow.com/questions/48593183/maven-unable-to-find-valid-certification-path
+
+maven cheat sheet :
+https://www.digitalocean.com/community/tutorials/maven-commands-options-cheat-sheet
+(see mvn_certificate.docx) 
