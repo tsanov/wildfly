@@ -11,3 +11,6 @@ https://stackoverflow.com/questions/48593183/maven-unable-to-find-valid-certific
 maven cheat sheet :
 https://www.digitalocean.com/community/tutorials/maven-commands-options-cheat-sheet
 (see mvn_certificate.docx) 
+
+how to see the version of wildfly in the "web" console:
+https://docs.wildfly.org/17/Admin_Guide.html
